@@ -4,7 +4,6 @@ Python was used to create the weather desktop application. This app shows weathe
 Features:
 
 *Show the city's overall weather prediction.
-
 *information about the weather for the selected day.
 
 Technologies and sources:
