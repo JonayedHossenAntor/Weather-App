@@ -1,5 +1,5 @@
 # Weather-App
-Weather desktop application built using Python.This app shows weather the forecast for every days of week.
+Python was used to create the weather desktop application. This app shows weather the forecast for every days of week.
 
 Features:
 *Show the city's overall weather prediction.
