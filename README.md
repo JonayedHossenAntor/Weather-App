@@ -9,5 +9,6 @@ Python was used to create the weather desktop application. This app shows weathe
 
 - Show the city's overall weather prediction.
 - Information about the weather for the selected day.
+- Determine the temperature unit (°C, °F, and K).
 
 
