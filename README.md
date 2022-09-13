@@ -11,5 +11,5 @@ Python was used to create the weather desktop application. This app shows weathe
 - Information about the weather for the selected day.
 - Determine the temperature unit (°C, °F, and K).
 - Select the appropriate wind speed unit (km/h, m/s, mph, and knots).
-
+- keep the default values (city name, temperature unit and speed unit)
 
