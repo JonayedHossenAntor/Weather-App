@@ -14,4 +14,5 @@ Python was used to create the weather desktop application. This app shows weathe
 - Keep the default values (city name, temperature unit and speed unit).
 - Display default values (city name, temperature unit and speed unit).
 - When starting the app, load the default values (city name, temperature unit, and speed unit).
+- Display simultaneous temperature and wind speed units for the prediction for several cities.
 
