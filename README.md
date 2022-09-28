@@ -16,3 +16,10 @@ Python was used to create the weather desktop application. This app shows weathe
 - When starting the app, load the default values (city name, temperature unit, and speed unit).
 - Display simultaneous temperature and wind speed units for the prediction for several cities.
 
+
+## Technologies and sources
+
+- Python version: 3.8
+- API: weather forecast: https://openweathermap.org/forecast16
+- Used icons: https://www.weatherbit.io/api/codes
+
