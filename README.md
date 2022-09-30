@@ -23,3 +23,6 @@ Python was used to create the weather desktop application. This app shows weathe
 - API: weather forecast: https://openweathermap.org/forecast16
 - Used icons: https://www.weatherbit.io/api/codes
 
+## Installation and setup
+Create the file 'api key.py' in the 'utils' package to utilize the application. Then add a variable called "PRIVATE API KEY" to it to hold your private API key.
+Check to see if your key can get you access to this collection because this app uses Daily Forecast 16 days.
