@@ -40,3 +40,7 @@ pip install datetime
 pip install Pillow
 pip install requests
 ```
+
+## View
+### Main window
+![Main window1](screenshots/img1.png)
