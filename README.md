@@ -26,3 +26,9 @@ Python was used to create the weather desktop application. This app shows weathe
 ## Installation and setup
 Create the file 'api key.py' in the 'utils' package to utilize the application. Then add a variable called "PRIVATE API KEY" to it to hold your private API key.
 Check to see if your key can get you access to this collection because this app uses Daily Forecast 16 days.
+
+
+Content of: Weather-App/app/utils/api_key.py file
+```python
+PRIVATE_API_KEY = 'your_api_key'
+```
