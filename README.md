@@ -32,3 +32,11 @@ Content of: Weather-App/app/utils/api_key.py file
 ```python
 PRIVATE_API_KEY = 'your_api_key'
 ```
+
+Use the package manager [pip](https://pip.pypa.io/en/stable/) to install all essential libraries.
+
+```bash
+pip install datetime
+pip install Pillow
+pip install requests
+```
